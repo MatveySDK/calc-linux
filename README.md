@@ -3,6 +3,9 @@ A Simple Calculator on C
 
 > Compilation is possible for Debian-like system
 
+## Preview:
+![](https://github.com/MatveySDK/calc-linux/blob/main/preview.png)
+
 ## Installation:
 To compile you will need the gcc compiler
 
